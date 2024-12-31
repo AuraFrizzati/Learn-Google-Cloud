@@ -15,7 +15,7 @@ This repository is your ultimate guide to mastering Google Cloud in 2025! Whethe
 - **Cloud Enthusiasts**: Stay updated with cutting-edge technologies and trends in Google Cloud.
 
 ## How to Use This Repo? 🛠️
-1. Clone the repository: `git clone https://github.com/yourusername/Learn-Google-Cloud-2025.git`
+1. Clone the repository: `git clone https://github.com/vishal-bulbule/Learn-Google-Cloud-2025.git`
 2. Follow the Youtube Playlist and labs in the structured order for a smooth learning curve.
 3. Experiment with code samples and projects to gain hands-on experience.
-4. Check out the **Resources** section for additional learning materials.
+
