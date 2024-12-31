@@ -1,4 +1,4 @@
-# Learn Google Cloud in 2025 🌥️
+# Learn Google Cloud 🌥️
 
 This repository is your ultimate guide to mastering Google Cloud in 2025! Whether you're new to cloud computing or an experienced professional, you'll find valuable resources, hands-on examples, and step-by-step guides to help you navigate and leverage the full potential of Google Cloud Platform (GCP).
 
